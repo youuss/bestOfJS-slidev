@@ -8,7 +8,7 @@ css: unocss
 ---
 
 # Best of Js
-最好的 JavaScript、HTML 与 CSS 库
+推荐一些不错的库
 
 ---
 layout: default
@@ -117,6 +117,15 @@ layout: PageTwo
 * TurboPack 是一个针对JavaScript和TypeScript优化的增量打包工具，由webpack和Next.js的创造者在Vercel公司用Rust编写。
 * TurboPack 拥有与webpack类似的配置方式，使用者可以方便地使用它并且不需要学习复杂的语法。同时，它还具有内置的模块缓存和预编译功能，可以提高构建速度和性能。
 * TurboPack 还可以与其他构建工具，如Babel和PostCSS，无缝集成。这样，开发人员可以更轻松地使用最新的JavaScript和CSS技术，并将其转换为浏览器可以理解的代码。
+
+---
+layout: default
+---
+<Shuimo w="20" h="20" />
+
+# [Shuimo](https://shuimo.janghood.com/)
+* 自己的一个开源项目，小打小闹～
+
 
 ---
 layout: default
